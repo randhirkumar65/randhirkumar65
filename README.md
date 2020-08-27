@@ -5,7 +5,7 @@ My name is Randhir Kumar. I'm a compassionate iOS developer from Patna, but now 
 
 - 🌱 I’m currently - learning GraphQL, ARKit
 - 💬 Ask me about: Swift, tvOS, design & architecture,  UI / Unit testing and releasing apps to store
-- 📫 How to reach me: [linkedin.com/in/randhir-kumar-a8196b100/](https://www.linkedin.com/in/in/randhir-kumar-a8196b100/)
+- 📫 How to reach me: [linkedin.com/in/iamrandhir-kumar](https://www.linkedin.com/in/in/iamrandhir-kumar)
 - 💬 Hobbies: Gamer and love collecting Coins.
 - ⚡ Fun fact: If I'm not found here, I'll most probably be playing games
 - 😄 Pronouns: him/he
