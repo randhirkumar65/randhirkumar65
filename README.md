@@ -2,7 +2,7 @@
 ![Profile](https://github.com/randhirkumar65/randhirkumar65/blob/master/codeMinions.gif)
 
 My name is Randhir Kumar. I'm a compassionate iOS developer from Patna, but now I live in Bangalore. I love watching and playing cricket.
-3+ yrs of experience in iOS and tvOS development.
+4+ yrs of experience in iOS and tvOS development.
 
 - 🌱 I’m currently - learning GraphQL, ARKit
 - 💬 Ask me about: Swift, tvOS, design & architecture,  UI / Unit testing and releasing apps to store
